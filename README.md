@@ -46,3 +46,17 @@ genetic-vm-placement/
 vmp-data.txt          # Input file: number of VMs, PMs, and their resource specs  
 vmp_ga.py             # Main script implementing the Genetic Algorithm  
 README.md             # Project documentation (this file)  
+
+---
+
+# GUI & output
+
+<img src="/Screenshot11.png" alt="App Screenshot" width="500"/>
+<img src="/Screenshot22.png" alt="App Screenshot" width="500"/>
+
+---
+
+# Installation 
+
+```bash
+pip install customtkinter matplotlib
