@@ -1,0 +1,17 @@
+# Number of VMs and PMs
+10 3
+# VM CPU and RAM (one line per VM)
+2 4
+3 3
+1 2
+4 1
+2 2
+3 4
+1 1
+2 3
+4 2
+3 3
+# PM Capacity (CPU, RAM)
+5 8
+6 6
+8 10
